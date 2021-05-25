@@ -1,0 +1,45 @@
+body {
+  font-family: sans-serif;
+  font-size: 80%;
+}
+
+form {
+  border: 2px solid lightgrey;
+  padding: .6rem;
+  border-radius: 0 .6rem .6rem;
+}
+
+textarea {
+  width: 100%;
+  resize: none;
+  border: none;
+  outline: none;
+  opacity: 0.4;
+}
+
+.bottom-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.anonimo {
+  display: flex;
+  align-items: center;
+  color: lightgrey;
+}
+
+.anonimo img {
+  width: 15px;
+  height:15px;
+  padding-right: .4em;
+}
+
+button {
+  height: 30px;
+  width: 70px;
+  border: none;
+  background: #7183D3;
+  color: white;
+  border-radius: 0.4rem;
+}

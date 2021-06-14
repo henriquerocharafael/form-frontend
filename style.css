@@ -42,3 +42,9 @@ button {
   color: white;
   border-radius: 0.4rem;
 }
+
+button:hover {
+  background: #23E65B;
+  color: #E63E23;
+  cursor: pointer;
+}
